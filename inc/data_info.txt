@@ -1,0 +1,43 @@
+1. Title: Sahibinden.com Turkey Vehicle Data
+
+2. Sources:
+   (a) Origin:  This dataset was taken from the Sahibinden.com which is an online classifieds and shopping platform in which people and businesses buy and sell new or second hand vehicles
+   (b) Creator:  Tokman, B.T. ‘Predicting vehicle price with specific values'
+   (c) Date: August 23, 2017
+
+3. Number of Instances: UNKNOWN
+
+4. Number of Attributes: 27 continuous attributes
+
+5. Attribute Information:
+
+    1. TITLE      title of the ad
+    2. ID         identification number of the ad
+    3. PRICE      price of the vehicle
+    4. CURRENCY   currency of the price    
+    5. LOCCITY    city of the ad
+    6. LOCOUNTY   county of the ad
+    7. LOCDIST    distirct of the ad
+    8. LAT        latitude of the location of the ad
+    9. LON        longitude of the location of the ad
+    10. DATE      ad release date
+    11. BRAND     type of the ad
+    12. SERIES    series
+    13. MODEL     model
+    14. FUEL      fuel type
+    15. YEAR      manifactured year
+    16. GEAR      gear type
+    17. KM        total kilometers driven
+    18. FRAME     body frame
+    19. ENGVOL    engine volume
+    20. HP        horse power
+    21. DRIVE     front or rear drive
+    22. COLOR     color
+    23. WARRANTY  warranty
+    24. PLATE     saler of the flat is owner, real estate office or construction company
+    25. SALER     saler of the flat is owner, real estate office or construction company
+    26. STATUS    saler of the flat is owner, real estate office or construction company
+    27. EXC       exchange is possible or not
+
+
+
